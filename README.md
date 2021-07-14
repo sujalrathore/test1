@@ -1,2 +1,2 @@
 # test
-It os test repository 
+It is test repository 
